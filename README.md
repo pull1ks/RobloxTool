@@ -1,5 +1,5 @@
 # RobloxTool
-RobloxTool add true fullscreen and fpsunlocker to your game. 
+RobloxTool add true fullscreen and fpsunlocker to your game. (May not work idk)
 
 How:
 -Launch batch file everytime you want to play.
